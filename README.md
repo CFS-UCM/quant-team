@@ -6,13 +6,11 @@ Este repositorio contiene el material de formación y práctica para el equipo d
 
 - **Module_0_Intro.ipynb** → Introducción y glosario.
 - **Module_1_Tools.ipynb** → Herramientas técnicas (Python, análisis financiero).
-- **Module_2_TimeSeries.ipynb** → Series temporales y procesos estocásticos.
-- **Module_3_AssetPricing.ipynb** → Modelos de valoración de activos.
+- **Module_2_AnalyzingData.ipynb** → Conceptos estadísticos usados en mercados financieros.
+- **Module_3_Regressions.ipynb** → Regresiones y analálisis de residuos.
 - **Module_4_PortfolioTheory.ipynb** → Teoría moderna de carteras y optimización.
-- **Module_5_Derivatives.ipynb** → Derivados y modelos estocásticos.
-- **Module_6_RiskManagement.ipynb** → Gestión de riesgos.
-- **Module_7_MachineLearning.ipynb** → Machine Learning aplicado a finanzas.
-- **Module_8_Projects.ipynb** → Retos, proyectos y competiciones.
+- **Module_5_FactorModels.ipynb** → Modelos de factores para valoración de activos y construcción de carteras.
+- **Projects.ipynb** → Retos, proyectos y competiciones.
 
 
 ##  Bibliografía Recomendada
