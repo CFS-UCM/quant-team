@@ -10,7 +10,6 @@ Este repositorio contiene el material de formación y práctica para el equipo d
 - **Module_3_Regressions.ipynb** → Regresiones y analálisis de residuos.
 - **Module_4_PortfolioTheory.ipynb** → Teoría moderna de carteras y optimización.
 - **Module_5_FactorModels.ipynb** → Modelos de factores para valoración de activos y construcción de carteras.
-- **Projects.ipynb** → Retos, proyectos y competiciones.
 
 
 ##  Bibliografía Recomendada
